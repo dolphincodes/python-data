@@ -1,0 +1,17 @@
+varone=[]
+vartwo=[1,2,3]
+varthree=[1,2,3,"abc"]
+print(varone)
+print(vartwo)
+print(varthree)
+print(max(vartwo))
+print(min(vartwo))
+print(len(varthree))
+print(varone.append(0))
+print(vartwo.reverse())
+print(vartwo)
+print(vartwo.pop())
+print(vartwo.sort())
+print(vartwo)
+varfe=[[1,2],[1,3]]
+print(varfe)
